@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="Source Control Table" max_length="40" name="x_snc_source_contr_source_control_table" type="collection"/>
+</database>
